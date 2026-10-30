@@ -20,6 +20,7 @@ nav = [
 [project.theme]
 # https://zensical.org/docs/setup/basics/?h=theme#theme-variant
 variant = "classic"
+palette.primary = "orange"
 
 favicon = "images/r_written.svg"
 logo = "images/r_written.svg"
