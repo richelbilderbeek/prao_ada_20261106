@@ -1,5 +1,22 @@
 # Frequently asked questions
 
+## Who is my supervisor?
+
+Richèl.
+
+???- "How does he look like?"
+
+    Here is how he loooks like
+    
+    ![Richèl. Photo by Mikael Wallerstedt](richel.jpg)
+
+???- "How to pronounce his name??"
+
+    Language |Pronunciation
+    ---------|-------------
+    English  |'Rea-shell', rhymes on 'sea shell'
+    Swedish  |'Ri-kjell', `rikedom och kjell och company`
+
 ## What should I bring?
 
 - a laptop with an adapter
