@@ -1,6 +1,6 @@
 # PRAO of Ada
 
-[Go to the nicely rendered website](https://richelbilderbeek.github.io/prao_emil_20260320/).
+[Go to the nicely rendered website](https://richelbilderbeek.github.io/prao_ada_20261106/).
 
 ## Files used by continuous integration scripts
 

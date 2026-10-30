@@ -48,3 +48,8 @@ Tips from former students, with spelling errors corrected.
 > understand it better if there's some things you don't know.
 
 [Emil](https://github.com/richelbilderbeek/prao_emil_20260320)
+
+> Read thoroughly and listen carefully to all information given.
+> Do your best and have fun!
+
+[Wilmer](https://github.com/richelbilderbeek/prao_wilmer_20260413)

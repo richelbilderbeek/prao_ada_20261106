@@ -1,7 +1,6 @@
 # PRAO of Ada
 
-- When: Monday April 13th to (and including)
-  Friday April 24th 2926 9:00-16:00
+- When: Friday November 6th 2026 9:00-16:00
   (see [schedule](schedule.md))
 - Where in Uppsala: Biomedical Center, Husargatan:
   see [location](location.md) how to get there
