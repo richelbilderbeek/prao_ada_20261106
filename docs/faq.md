@@ -2,7 +2,7 @@
 
 ## What should I bring?
 
-- a laptop
+- a laptop with an adapter
 - (optional) food
 
 ## Where in Uppsala is this?
@@ -21,12 +21,18 @@ Yes.
 
 ## What happens when I am early?
 
-You will make a great first impression and the PRAO will end earlier:
-that is one of the features of working at NBIS: we ourselves can determine
-when we work.
+- You will make a great first impression
+- It will be noted in the
+  [reflection from the supervisor](reflection_from_supervisor.md)
+- The PRAO will end earlier:
+  that is one of the features of working at NBIS: we ourselves can determine
+  when we work.
 
 ## What happens when I am late?
 
-You will make a bad first impression and the PRAO will end later:
-that is one of the features of working at NBIS: we ourselves can determine
-when we work.
+- You will make a bad first impression
+- It will be noted in the
+  [reflection from the supervisor](reflection_from_supervisor.md)
+- The PRAO will end later:
+  that is one of the features of working at NBIS: we ourselves can determine
+  when we work.
