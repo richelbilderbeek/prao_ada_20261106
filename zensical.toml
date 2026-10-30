@@ -1,6 +1,6 @@
 [project]
 site_name = "PRAO Ada"
-site_url = "..."
+site_url = "https://richelbilderbeek.github.io/prao_ada_20261106/"
 repo_url = "https://github.com/richelbilderbeek/prao_ada_20261106"
 edit_uri = "blob/main/docs/"
 
