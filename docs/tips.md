@@ -2,11 +2,11 @@
 
 Tips from former students, with spelling errors corrected.
 
-> Stay calm and focused and you will get it done, even if it feels stressful
-> you'll get it done in the end. Remember the goal of a PRAO.
-> The start is the hardest, it gets easier.
+!!! quote "[Emil](https://github.com/richelbilderbeek/prao_emil_20240603)"
 
-[Emil](https://github.com/richelbilderbeek/prao_emil_20240603)
+    Stay calm and focused and you will get it done, even if it feels stressful
+    you'll get it done in the end. Remember the goal of a PRAO.
+    The start is the hardest, it gets easier.
 
 > Make sure to get a good idea of what to do before starting so that
 > you don't lose time due to misunderstanding the assignment.
@@ -53,3 +53,4 @@ Tips from former students, with spelling errors corrected.
 > Do your best and have fun!
 
 [Wilmer](https://github.com/richelbilderbeek/prao_wilmer_20260413)
+
