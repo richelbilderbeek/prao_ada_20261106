@@ -47,6 +47,9 @@
 
 
 - The [`scoreto` R package](https://github.com/richelbilderbeek/scoreto)
+  is used to create [the SCoRe user documentation](https://docs.score.nbis.se/).
+  It is an important package :-)
+- The [`scoreto` R package](https://github.com/richelbilderbeek/scoreto)
   only has 99% code coverage. Make this 100%
 - The [`scoreto` R package](https://github.com/richelbilderbeek/scoreto)
   does not list the CodeRefinery course as they were never listed
