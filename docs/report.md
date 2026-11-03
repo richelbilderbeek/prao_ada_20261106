@@ -59,39 +59,53 @@
 
 ## Project 1: 100% code coverage
 
-> This paragraph is written by the supervisor
->
-> These are the steps
+!!! info "Written by the supervisor"
+
+    Text in info boxes is written by the supervisor.
 
 ### 1. Login to Pelle's remote desktop
 
-Use [the UPPMAX documentation](https://docs.uppmax.uu.se/).
+!!! tip "Tip"
+
+    Use [the UPPMAX documentation](https://docs.uppmax.uu.se/).
 
 ### 2. Start RStudio in an interactive session
 
-Use [the UPPMAX documentation](https://docs.uppmax.uu.se/), search
-for 'RStudio Pelle'
+!!! tip "Tip"
+
+    Use [the UPPMAX documentation](https://docs.uppmax.uu.se/), search
+    for 'RStudio Pelle'
 
 ### 3. Become a collaborator of [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto)
 
-Login to GitHub and share your username with Richel. He will add you.
+!!! tip "Tip"
+
+    Login to GitHub and share your username with Richel. He will add you.
 
 ### 4. Clone `scoreto` on Pelle
 
-(Can be done without step 3)
+!!! tip "Tip"
+
+    (Can be done without step 3)
 
 ### 5. Test the `scoreto` package on Pelle
 
-Find out how to run tests in RStudio. The package is tested to work. 
+!!! tip "Tip"
+
+    Find out how to run tests in RStudio. The package is tested to work. 
 
 ### 6. Find out which code is not covered by tests
 
-This is the code that lowers code coverage.
+!!! tip "Tip"
+
+    This is the code that lowers code coverage.
 
 ### 7. Write a test to make this code be tested
 
 ### 8. Push the code to GitHub again
 
-If all tests pass, you did it.
+!!! tip "Tip"
+
+    If all tests pass, you did it!
 
 
