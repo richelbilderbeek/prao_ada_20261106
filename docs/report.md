@@ -80,7 +80,8 @@
 
 !!! tip "Tip"
 
-    Login to GitHub and share your username with Richel. He will add you.
+    Login to [GitHub](https://github.com/)
+    and share your username with Richel. He will add you.
 
 ### 4. Clone `scoreto` on Pelle
 
