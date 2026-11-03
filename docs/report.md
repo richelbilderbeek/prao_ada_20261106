@@ -51,7 +51,7 @@
 - The [`scoreto` R package](https://github.com/richelbilderbeek/scoreto)
   does not list the CodeRefinery course as they were never listed
   online. Nowadays they are, at
-  https://training.naiss.se/courses/upcoming/#coderefinery .
+  <https://training.naiss.se/courses/upcoming/#coderefinery>.
   Make `scoreto` display the CodeRefinery courses
 - We use [RStudio on Pelle](https://docs.uppmax.uu.se/software/rstudio_on_pelle/).
   Follow that guide to login.
