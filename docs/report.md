@@ -38,6 +38,12 @@
       for online teaching? Why? How much more effective is it, compared
       to others?
 
+    Science of programming:
+
+    - Thanks to AI it is easy to produce code. What are the
+      current evidence-based best practice in how to develop
+      code? Does it matter if you have a well-written and tested
+      starting point?
 
 ## Steps
 
