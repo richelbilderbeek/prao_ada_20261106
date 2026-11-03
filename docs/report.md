@@ -45,6 +45,18 @@
       code? Does it matter if you have a well-written and tested
       starting point?
 
+
+- The [`scoreto` R package](https://github.com/richelbilderbeek/scoreto)
+  only has 99% code coverage. Make this 100%
+- The [`scoreto` R package](https://github.com/richelbilderbeek/scoreto)
+  does not list the CodeRefinery course as they were never listed
+  online. Nowadays they are, at
+  https://training.naiss.se/courses/upcoming/#coderefinery .
+  Make `scoreto` display the CodeRefinery courses
+- We use [RStudio on Pelle](https://docs.uppmax.uu.se/software/rstudio_on_pelle/).
+  Follow that guide to login.
+  Use [the UPPMAX project `uppmax2025-2-393`](https://supr.naiss.se/project/36087/)
+
 ## Steps
 
 ...
