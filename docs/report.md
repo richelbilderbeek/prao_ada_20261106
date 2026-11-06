@@ -8,8 +8,6 @@
   is used to create [the SCoRe user documentation](https://docs.score.nbis.se/).
   It is an important package :-)
 - The [`scoreto` R package](https://github.com/richelbilderbeek/scoreto)
-  only has 99% code coverage. Make this 100%
-- The [`scoreto` R package](https://github.com/richelbilderbeek/scoreto)
   does not list the CodeRefinery course as they were never listed
   online. Nowadays they are, at
   <https://training.naiss.se/courses/upcoming/#coderefinery>.
@@ -18,11 +16,18 @@
   Follow that guide to login.
   Use [the UPPMAX project `uppmax2025-2-393`](https://supr.naiss.se/project/36087/)
 
-## Project 1: 100% code coverage
+## Project 1: Add CodeRefinery to the list of courses
 
 !!! info "Written by the supervisor"
 
     Text in info boxes is written by the supervisor.
+
+The [CodeRefinery courses](https://training.naiss.se/courses/upcoming/#coderefinery)
+are listed on the NAISS website.
+
+I want it at
+[the SCoRe user documentation's list of courses](https://docs.score.nbis.se/courses/)
+too.
 
 ### 1. Login to Pelle's remote desktop
 
@@ -44,7 +49,7 @@
     Login to [GitHub](https://github.com/)
     and share your username with Richel. He will add you.
 
-### 4. Clone `scoreto` on Pelle
+### 4. `git` clone `scoreto` on Pelle
 
 !!! tip "Tip"
 
@@ -56,17 +61,9 @@
 
     Find out how to run tests in RStudio. The package is tested to work. 
 
-### 6. Find out which code is not covered by tests
+### 6. Find out where is the code to create the list of courses
 
-!!! tip "Tip"
+### 7. Add CodeRefinery there
 
-    This is the code that lowers code coverage.
-
-### 7. Write a test to make this code be tested
-
-### 8. Push the code to GitHub again
-
-!!! tip "Tip"
-
-    If all tests pass, you did it!
+### 8. When all tests pass, you are done
 
